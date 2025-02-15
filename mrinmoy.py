@@ -3,7 +3,7 @@ import asyncio
 import time
 import threading
 
-TELEGRAM_BOT_TOKEN = '8194772574:AAEHs3FxlktqVprZkyb1TkhZATK4A8WW3QQ'
+TELEGRAM_BOT_TOKEN = '7738920916:AAEZV3ZzvXsTJznb4cBjZ3-7K1QxAN3c5mI'
 ALLOWED_GROUP_ID = -1002467234095  # Replace with your group's ID
 COOLDOWN_TIME = 60  # Cooldown duration in seconds
 cooldowns = {}
