@@ -4,7 +4,7 @@ import time
 import threading
 
 TELEGRAM_BOT_TOKEN = '8194772574:AAEHs3FxlktqVprZkyb1TkhZATK4A8WW3QQ'
-ALLOWED_GROUP_ID = -1002399478136  # Replace with your group's ID
+ALLOWED_GROUP_ID = -1002467234095  # Replace with your group's ID
 COOLDOWN_TIME = 60  # Cooldown duration in seconds
 cooldowns = {}
 GROUP_LINK = "pampa"
